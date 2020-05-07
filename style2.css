@@ -23,6 +23,7 @@ h4 span {
 }
 div {
     display: block;
+	background-color: #D7A79D;
 }
 .form input {
   font-family: "Roboto", sans-serif;
